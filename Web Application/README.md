@@ -50,4 +50,5 @@ This project utilizes the IMDb API to fetch movie information. The application s
 
 Contributions from the community are welcome. If you're interested in contributing to I-FLIX-MOVIE-PLAYER, please feel free to submit a pull request. Your contributions are greatly appreciated.
 
-If you have any questions or need assistance, feel free to contact me via email: kulubiidris@gmail.com.
+If you have any questions or need assistance, feel free to contact me via email: noelmoses337@gmail.com
+
